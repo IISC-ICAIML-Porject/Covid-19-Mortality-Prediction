@@ -54,8 +54,8 @@ This dataset is found on [Kaggle](https://www.kaggle.com/datasets/meirnizri/covi
 
 2. Custom Models
 
-- Classifier-Classifier Ensemble
-- Supervised-Unsupervised Ensemble
+- Class-specifc Ensemble Mpdel
+- Hybrid Ensemble Model
 
 ### Authors
 
